@@ -1,8 +1,6 @@
 # React Chat Widget
-[![circle-ci](https://img.shields.io/circleci/project/github/izetmolla/react-chat-theme.svg)](https://circleci.com/gh/izetmolla/react-chat-theme)
-[![npm](https://img.shields.io/npm/v/react-chat-theme.svg)](https://www.npmjs.com/package/react-chat-theme)
 
-[![FEArmy](./assets/FEA_open_source_sm.png)](https://github.com/orgs/izetmolla/teams/front-end-army/members)
+[![npm](https://img.shields.io/npm/v/react-chat-theme.svg)](https://www.npmjs.com/package/react-chat-theme)
 
 ## Features
 
@@ -291,4 +289,3 @@ function MyApp() {
 
 This project is maintained by [Izet Molla](https://github.com/izetmolla) and it was written by [izetmolla](http://www.gmail.com).
 
-![izetmolla](https://raw.githubusercontent.com/izetmolla/press-kit/master/logos/logo_banner.png)
